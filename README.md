@@ -11,7 +11,7 @@ My name is Luan and ...:
  - 📊 I'm working with Business Intelligence
  - 📚 Currently studying Azure and LGPD
  - 🌍 And I also like to travel
-## Languages Learned:
+## Linguagens Favoritas:
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![Python](https://img.shields.io/badge/Python-00BCD4?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
