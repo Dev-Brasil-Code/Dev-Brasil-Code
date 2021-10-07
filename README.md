@@ -19,5 +19,5 @@ My name is Luan and ...:
 
 ### Hi, I'm Dev Brasil Code, a Full Stack Developer 🚀 from Brasil, currently. Beside's programming, I enjoy eating food and traveling.
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+  <img align="right" alt="GIF" src="https://ibb.co/1Mnc7r8" />
 
